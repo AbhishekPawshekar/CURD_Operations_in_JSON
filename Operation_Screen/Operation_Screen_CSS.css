@@ -1,0 +1,9 @@
+.data_table{
+          width: 100%;
+          height: 100%;         
+}
+.change_color,tr{background-color: #2E223A;}
+
+table{min-width: 650;border-collapse: separate;border-spacing:0px 10px;}
+.naviation_panel{width: 100%; height: auto;margin-top: 20px;}
+.navigation_button{width: 100%;height: auto;display: flex; align-items: center; justify-content: center; flex-direction: row; flex-wrap: wrap;}
