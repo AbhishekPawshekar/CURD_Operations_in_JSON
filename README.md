@@ -10,7 +10,8 @@ Delete Record 1      | Delete Record 2
 
 Edit                 |Edit
 :-------------------------:|:--------------------------:
-![edit1](https://github.com/AbhishekPawshekar/CURD_Operations_in_JSON/assets/89447125/a9e612bc-9dda-4536-8283-3d132cb7efd0) | ![Uploading edit 2.png…]()
+![edit1](https://github.com/AbhishekPawshekar/CURD_Operations_in_JSON/assets/89447125/a9e612bc-9dda-4536-8283-3d132cb7efd0) | ![edit 2](https://github.com/AbhishekPawshekar/CURD_Operations_in_JSON/assets/89447125/9b698eb7-883d-49ba-989c-f1bc71989bc4)
+
 
 
 
